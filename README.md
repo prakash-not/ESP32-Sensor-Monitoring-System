@@ -6,7 +6,7 @@ This project is a modular firmware solution for the ESP32 designed to handle rea
 ## 2. Hardware Setup
 To verify the physical implementation, the circuit is built on a breadboard with the following configuration:
 
-![Hardware Setup](hardware_setup (1).jpg)
+![Hardware Setup](hardware_setup_1.jpg)
 
 * **Microcontroller**: ESP32 DevKit V1
 * **Sensor**: DHT11
