@@ -1,0 +1,90 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4980
+load:0x40078000,len:16612
+load:0x40080400,len:3480
+entry 0x400805b4
+Boot Event Detected. Reset Reason: 1
+Reading Stored Logs:
+
+STATE: ACTIVE
+Temp: 23.70 | Min: 23.70 | Max: 23.70 | Moving Avg: 23.70
+Temp: 23.70 | Min: 23.70 | Max: 23.70 | Moving Avg: 23.70
+Temp: 25.50 | Min: 23.70 | Max: 25.50 | Moving Avg: 24.30
+Temp: 25.50 | Min: 23.70 | Max: 25.50 | Moving Avg: 24.60
+Temp: 25.50 | Min: 23.70 | Max: 25.50 | Moving Avg: 24.78
+Temp: 25.50 | Min: 23.70 | Max: 25.50 | Moving Avg: 24.90
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.00
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.07
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.13
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.18
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.37
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.56
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.57
+Temp: 25.60 | Min: 23.70 | Max: 25.60 | Moving Avg: 25.58
+Temp: 25.70 | Min: 23.70 | Max: 25.70 | Moving Avg: 25.60
+Temp: 25.70 | Min: 23.70 | Max: 25.70 | Moving Avg: 25.62
+Temp: 25.70 | Min: 23.70 | Max: 25.70 | Moving Avg: 25.63
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.50 | Min: 26.30 | Max: 26.50 | Moving Avg: 26.50
+Temp: 26.60 | Min: 26.30 | Max: 26.60 | Moving Avg: 26.51
+Temp: 26.60 | Min: 26.30 | Max: 26.60 | Moving Avg: 26.52
+Temp: 26.50 | Min: 26.30 | Max: 26.60 | Moving Avg: 26.52
+Temp: 26.50 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.52
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.53
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.54
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.55
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.56
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.57
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.58
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.58
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.58
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.59
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+Temp: 26.60 | Min: 26.40 | Max: 26.60 | Moving Avg: 26.60
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4980
+load:0x40078000,len:16612
+load:0x40080400,len:3480
+entry 0x400805b4
+Boot Event Detected. Reset Reason: 12
+Reading Stored Logs:
+SoftwareReset 
+STATE: ACTIVE
+Temp: 26.70 | Min: 26.70 | Max: 26.70 | Moving Avg: 26.70
+Temp: 26.70 | Min: 26.70 | Max: 26.70 | Moving Avg: 26.70
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.73
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.75
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.76
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.77
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.77
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.77
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.78
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.78
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.79
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.80
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.80
+Temp: 26.80 | Min: 26.70 | Max: 26.80 | Moving Avg: 26.80
+STATE: SLEEP
